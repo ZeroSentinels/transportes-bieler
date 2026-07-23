@@ -20,4 +20,4 @@ Disallow: /
 User-agent: Google-Extended
 Disallow: /
 
-Sitemap: https://zerosentinels.github.io/transportes-bieler/sitemap.xml
+Sitemap: https://tbieler.cl/sitemap.xml
